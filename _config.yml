@@ -1,0 +1,11 @@
+remote_theme: just-the-docs/just-the-docs
+color_theme: "dark"
+search_enabled: false
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
